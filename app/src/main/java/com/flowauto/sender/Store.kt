@@ -10,4 +10,4 @@ object Store {
         p(c).edit().putString("list", l.joinToString("\n")).apply()
     fun index(c: Context): Int = p(c).getInt("idx", 0)
     fun setIndex(c: Context, i: Int) = p(c).edit().putInt("idx", i).apply()
-}1
+}
