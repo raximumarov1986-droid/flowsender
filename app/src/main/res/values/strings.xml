@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flow Auto Prompt Sender</string>
+    <string name="service_desc">Promptlarni boshqa ilovadagi matn maydoniga joylaydi. Generate tugmasini bosmaydi.</string>
+</resources>
